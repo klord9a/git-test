@@ -1,0 +1,1 @@
+D:\laragon\www\wp.dev/wp-content/plugins/simply-static-pro\vendor\symfony\polyfill-intl-normalizer\bootstrap80.php
