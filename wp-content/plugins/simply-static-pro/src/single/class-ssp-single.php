@@ -1,0 +1,1 @@
+D:\laragon\www\wp.dev/wp-content/plugins/simply-static-pro\src\single\class-ssp-single.php
