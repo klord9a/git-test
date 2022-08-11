@@ -1,0 +1,1 @@
+D:\laragon\www\wp.dev/wp-content/plugins/simply-static-pro\vendor\clue\stream-filter\src\functions_include.php
