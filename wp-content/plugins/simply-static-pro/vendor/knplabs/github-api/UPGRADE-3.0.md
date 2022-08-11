@@ -1,0 +1,1 @@
+D:\laragon\www\wp.dev/wp-content/plugins/simply-static-pro\vendor\knplabs\github-api\UPGRADE-3.0.md
