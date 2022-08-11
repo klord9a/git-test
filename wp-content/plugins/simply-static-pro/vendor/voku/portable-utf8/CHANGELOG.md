@@ -1,1 +1,0 @@
-D:\laragon\www\wp.dev/wp-content/plugins/simply-static-pro\vendor\voku\portable-utf8\CHANGELOG.md
