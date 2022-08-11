@@ -1,1 +1,0 @@
-D:\laragon\www\wp.dev/wp-content/plugins/simply-static-pro\vendor\symfony\polyfill-php80\Resources\stubs\Stringable.php
