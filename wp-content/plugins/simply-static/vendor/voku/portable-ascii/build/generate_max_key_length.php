@@ -1,0 +1,1 @@
+D:\laragon\www\wp.dev/wp-content/plugins/simply-static\vendor\voku\portable-ascii\build\generate_max_key_length.php
