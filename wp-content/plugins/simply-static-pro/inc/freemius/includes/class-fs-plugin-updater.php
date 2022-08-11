@@ -1,1 +1,0 @@
-D:\laragon\www\wp.dev/wp-content/plugins/simply-static-pro\inc\freemius\includes\class-fs-plugin-updater.php
