@@ -1,1 +1,0 @@
-D:\laragon\www\wp.dev/wp-content/plugins/simply-static-pro\languages\simply-static-pro-de_DE.mo
