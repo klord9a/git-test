@@ -1,0 +1,1 @@
+D:\laragon\www\wp.dev/wp-content/plugins/simply-static-pro\inc\freemius\includes\debug\class-fs-debug-bar-panel.php
