@@ -1,0 +1,1 @@
+D:\laragon\www\wp.dev/wp-content/plugins/simply-static-pro\inc\freemius\includes\customizer\class-fs-customizer-upsell-control.php
